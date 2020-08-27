@@ -126,3 +126,6 @@ dmypy.json
 
 # My DataSet folder
 Data-Sets/
+
+# My Folder with Models at the moment
+Models/
