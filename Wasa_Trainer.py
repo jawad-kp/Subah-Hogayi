@@ -24,13 +24,13 @@ options = dlib.shape_predictor_training_options()
 # oversampling_amount
 # oversampling_translation_jitter
 
-options.tree_depth = 6
-options.nu = 0.08
-options.cascade_depth = 18
-options.feature_pool_size = 800
-options.num_test_splits = 80
-options.oversampling_amount = 25    	
-options.oversampling_translation_jitter = 0.4
+options.tree_depth = 4
+options.nu = 0.1
+options.cascade_depth = 15
+options.feature_pool_size = 400
+options.num_test_splits = 60
+options.oversampling_amount = 5    	
+options.oversampling_translation_jitter = 0.1
 
 options.be_verbose = True
 options.num_threads = multiprocessing.cpu_count()

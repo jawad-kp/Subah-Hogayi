@@ -1,6 +1,7 @@
 Name,Size,TimeToTrain,tree_depth,nu,cascade_depth,feature_pool_size,num_test_splits,oversampling_amount,oversampling_translation_jitter
 CustomTrained_1.dat,192084,14400,2,0.1,15,600,60,10,0.1
-CustomTrained_2.dat,48094.52246,3649.981186,4,0.1,15,400,60,5,0.1
+CustomTrained_2.dat,46687.5673828125,4057.887016282,4,0.1,15,400,60,5,0.1
 CustomTrained_3.dat,99607.58301,7230.968136,5,0.1,16,500,75,10,0.2
 CustomTrained_4.dat,211630.3779,8575.426768,6,0.08,17,700,75,10,0.2
 CustomTrained_5.dat,224383.0673828125,23843.430637503003,6,0.08,18,800,80,25,0.4
+Deprecated_CustomTrained_2.dat,48094.52246,3649.981186,4,0.1,15,400,60,5,0.1
